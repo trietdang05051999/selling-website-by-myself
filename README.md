@@ -1,2 +1,3 @@
 # selling-website-by-myself
-learn to build a website
+Hi, I'm Triet
+I'm learning to build a selling website
